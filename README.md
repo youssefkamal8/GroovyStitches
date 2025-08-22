@@ -48,4 +48,4 @@ Because handmade fashion deserves a digital stage! GroovyStitches bridges crafts
 ---
 
 ## 🏷️ Tagline  
-**GroovyStitches – Where creativity meets elegance in every stitch.**  
+**GroovyStitches – Every Stitch Tells a Story. ✨**  
