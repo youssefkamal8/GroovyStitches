@@ -1,6 +1,6 @@
 # 🧵 GroovyStitches
 
-![GroovyStitches Banner](https://your-image-link-here.com) <!-- Replace with your project banner if you have one -->
+![GroovyStitches Banner](image.png) <!-- Replace with your project banner if you have one -->
 
 ## 📌 Project Overview  
 **GroovyStitches** is a handmade e-commerce website designed for a local brand that sells handcrafted bags, clothes, and crochet products.  
