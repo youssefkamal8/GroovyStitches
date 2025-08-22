@@ -16,11 +16,11 @@ The website provides an elegant and user-friendly interface where customers can:
 ---
 
 ## 👥 Team Members  
-- Youssef Medhat Kamal Mohamed  
-- Basem Ahmed Hassan Ali  
-- Menna Khaled Abd El Rheem El Sayed  
-- Eman Anwar Ahmed Altohamy  
-- Sama Ahmed Ibrahim Radwan 
+🔹 Youssef Medhat Kamal Mohamed  
+🔹 Basem Ahmed Hassan Ali  
+🔹 Menna Khaled Abd El Rheem El Sayed  
+🔹 Eman Anwar Ahmed Altohamy  
+🔹 Sama Ahmed Ibrahim Radwan 
 
 ---
 
@@ -34,11 +34,11 @@ The website provides an elegant and user-friendly interface where customers can:
 ---
 
 ## 🎯 Project Goals  
-- Build a user-friendly online store for handcrafted goods.  
-- Provide a seamless browsing and shopping experience.  
-- Connect customers directly with the seller.  
-- Reflect the **artistic identity** of the brand.  
-- Support small businesses by promoting handmade fashion.  
+✔ Build a user-friendly online store for handcrafted goods.  
+✔ Provide a seamless browsing and shopping experience.  
+✔ Connect customers directly with the seller.  
+✔ Reflect the **artistic identity** of the brand.  
+✔ Support small businesses by promoting handmade fashion.  
 
 ---
 
