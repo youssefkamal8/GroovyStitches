@@ -3,7 +3,7 @@
 ![GroovyStitches Banner](Groovy-Stitches.png) <!-- Replace with your project banner if you have one -->
 
 ## 📌 Project Overview  
-**GroovyStitches** is a handmade e-commerce website designed for a local brand that sells handcrafted bags, clothes, and crochet products.  
+**✨ GroovyStitches** is a handmade e-commerce website designed for a local brand that sells handcrafted bags, clothes, and crochet products.  
 
 The website provides an elegant and user-friendly interface where customers can:  
 - 👜 **Browse** different product categories (bags, clothes, and accessories).  
